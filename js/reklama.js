@@ -24,7 +24,7 @@ function openModal() {
     border-radius: 50%;
     border: 2px solid #000;" class="close">X</button>
     </div>
-    <a href="https://html-m-lp-ua.goit.global/?utm_source=google&utm_medium=cpc&utm_campaign=AY_Search_Marathon_Brand_HTML_CSS_UA&utm_content=154975695588&utm_term=696280500227&keyword=goit&placement&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUjANhwYVQs0pB5dY7Z4OVO0LbJ1S-tjM3NHWj7ipwPdfiHHdGqiFTxoCmVcQAvD_BwE" target="_blank"><img src="/img/reklama.png" alt="Image" width="256" heigth="256"></a>
+    <a href="https://html-m-lp-ua.goit.global/?utm_source=google&utm_medium=cpc&utm_campaign=AY_Search_Marathon_Brand_HTML_CSS_UA&utm_content=154975695588&utm_term=696280500227&keyword=goit&placement&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUjANhwYVQs0pB5dY7Z4OVO0LbJ1S-tjM3NHWj7ipwPdfiHHdGqiFTxoCmVcQAvD_BwE" target="_blank"><img src="/img/reklama.png" loading="eager" alt="Image" width="256" heigth="256"></a>
     
 </div>
     `;
